@@ -1,0 +1,5 @@
+module libbase32 {
+  header "base32.h"
+  header "defines.h"
+  export *
+}
